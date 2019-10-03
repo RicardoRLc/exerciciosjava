@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class ExercicioQuatro {
     public static void main(String[] args) {
     Scanner ent4 = new Scanner(System.in);
-    System.out.println("Kadu Floresta");
-        /*
+            /*
         Exercicio4 - TABUADA SELECT
         4) Crie um programa que imprima a tabuada de 0 a 10.
         */
