@@ -1,12 +1,8 @@
-package exerciciosdois;
 import java.util.Scanner;
-
 public class ExercicioSete {
     public static void main(String[] args) {
         Scanner ent7 = new Scanner(System.in);
-        System.out.println("Kadu Floresta");
-
-        /*
+         /*
         Crie um programa que tenha como entrada as notas de um aluno.
         Somente se encerrará quando for inserida uma nota negativa.
         Ao final deverá informar a média das notas.

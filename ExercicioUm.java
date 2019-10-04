@@ -1,10 +1,7 @@
-package exerciciosdois;
 import java.util.Scanner;
-
 public class ExercicioUm {
     public static void main(String[] args) {
         Scanner ent = new Scanner(System.in);
-        System.out.println("Kadu Floresta");
         /*
         Exercicio1 - MEDIA DE 3 NOTAS
         1) Crie um programa que receba três notas calcule a média e diga se foi aprovado

@@ -7,8 +7,7 @@ public class ExercicioTres
     public static void main(String[] args)
     {
         //Scanner teclado = new Scanner(System.in);
-        System.out.println(" Kadu Floresta");
-        
+               
         /*
         Exercicio3 - FORCA
         

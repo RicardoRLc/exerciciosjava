@@ -1,9 +1,7 @@
-package exerciciosdois;
 
 public class ExercicioSeis {
    public static void main(String[] args) {
-        System.out.println("Kadu Floresta");
-        /*
+               /*
         Crie um programa que de a soma de todos os números ímpares e
         múltiplos de 7 entre 1 e 500.
         */
