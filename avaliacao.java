@@ -1,6 +1,5 @@
 import java.io.*;
-
-public class Exemplo01 {
+public class avaliacao {
 
     public static void main(String args[]) throws IOException {
         InputStreamReader reader = new InputStreamReader(ler.txt);
