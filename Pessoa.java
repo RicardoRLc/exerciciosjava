@@ -6,7 +6,7 @@ public class Pessoa {
     String dnascimento; 
     
     double calculoimc(){
-        return peso / (altura*altura)
+        return peso / (altura*altura);
     }
     
  
